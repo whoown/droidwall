@@ -1,0 +1,16 @@
+version 20080604
+  
+http://www.a1.com/  1
+http://www.a2.com/  1 
+http://www.a3.com/ 1
+
+http://www.b1.com/ 0
+
+http://www.b2.com/ 0
+http://www.b1.com/ 0
+
+
+
+
+
+
